@@ -1,5 +1,7 @@
 # iTask - Smart To-Do Planner ✅
 
+![iTask Screenshot](./screenshot.png)
+
 iTask is a functional task management application built with **React** and **Vite**. It helps users organize their daily routine with a clean, responsive interface and persistent data storage.
 
 ## 🚀 Live Demo
