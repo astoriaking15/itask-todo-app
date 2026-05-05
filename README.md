@@ -16,13 +16,10 @@ iTask is a functional task management application built with **React** and **Vit
 ## 🛠️ Built With
 - React.js
 - Vite
-- Tailwind CSS (or Vanilla CSS if you used that)
+- Tailwind CSS 
 - LocalStorage API
 
 ## 📖 How to Run Locally
 1. Clone the repo: `git clone https://github.com/astoriaking15/itask-todo-app.git`
 2. Install dependencies: `npm install`
 3. Start the dev server: `npm run dev`
-
-## 🎓 Credits
-This project was built as part of a learning journey following the tutorial by [CodeWithHarry](https://www.youtube.com/@CodeWithHarry). I implemented the logic and styling manually to strengthen my React and Node.js fundamentals.
